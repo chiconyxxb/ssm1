@@ -17,7 +17,7 @@ public class test01 {
     private ApplicationContext ctx = null;
     //test
     public void update(){
-    	System.out.println("pullTestAgin");
+    	System.out.println("pullTest");
     }
     @Before
     public void doBefore(){
